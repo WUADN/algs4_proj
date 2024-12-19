@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Percolation" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Percolation" />
+    <module name="Algorithms, Part I" />
+    <method v="2" />
+  </configuration>
+</component>
